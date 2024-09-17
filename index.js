@@ -13,6 +13,7 @@ app.get('/apijson', (req,res) => {
 //Rota POST 
 app.post('/apijson', (req,res) => {
     const data = req.body;
+    console.log('Dados recebidos', data);
     res.json({receivedData: data});
 });
 
