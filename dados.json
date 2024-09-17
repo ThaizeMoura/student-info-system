@@ -1,0 +1,33 @@
+
+[
+    {
+        "_coment": "Dados para inserir no POSTMAN - VIA POST"
+    },
+    
+    {
+    "name": "Aluno um",
+    "idade": 22,
+    "status de curso": "Cursando",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "materia": ["Redes de Coputadores", "Banco de Dados", "Programção Web"],
+    "possui DP": false
+    },
+    
+    {
+    "name": "Aluno dois",
+    "idade": 27,
+    "status de curso": "Cursando",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "matérias": ["Redes de Coputadores", "Banco de Dados", "Programção Web", "Algoritmos e Lógica de Programação"],
+    "possui DP": true
+    },
+    
+    {
+        "name":"Aluno tres",
+        "idade": 30,
+        "status do curso": "Finalizado",
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "materia": ["Banco de dados", "Análise de Projetos"],
+        "possui DP": true
+    }
+    ]
